@@ -1,4 +1,6 @@
 roses are red
 violets are blue
-flag is win
+wall is stop
+water is sink
+flag is wiw
 baba is you
